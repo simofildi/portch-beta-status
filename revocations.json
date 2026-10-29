@@ -1,7 +1,7 @@
 {
-  "issued" : "2026-10-29T21:58:24Z",
+  "issued" : "2026-10-29T22:48:05Z",
   "revoked" : [
-
+    "744b65c7e357"
   ],
-  "signature" : "NL00xJHDdi4Hq01o2qmM7eROLtZ6\/BOqY6bSRjNbNBTZ75yS9wXauORhWK4mfx8WMjiJSZ9oUI3SxpGT2k4lBQ=="
+  "signature" : "e4f9nThhpI4JO9b0TXUSxKkhHPGjBj3cyA1EVl\/RjMq6g3W0KCXEm2eHnU464yXsoMVhxoXqHg1PlBA5nKt1CA=="
 }
